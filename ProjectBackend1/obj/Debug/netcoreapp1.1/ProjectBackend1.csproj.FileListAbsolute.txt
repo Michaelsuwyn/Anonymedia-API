@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\bin\Debug\netcoreapp1.1\ProjectBackend1.deps.json
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\bin\Debug\netcoreapp1.1\ProjectBackend1.runtimeconfig.json
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\bin\Debug\netcoreapp1.1\ProjectBackend1.runtimeconfig.dev.json
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\bin\Debug\netcoreapp1.1\ProjectBackend1.dll
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\obj\Debug\netcoreapp1.1\ProjectBackend1.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\obj\Debug\netcoreapp1.1\ProjectBackend1.AssemblyInfo.cs
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\bin\Debug\netcoreapp1.1\ProjectBackend1.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\obj\Debug\netcoreapp1.1\ProjectBackend1.dll
+c:\users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\obj\Debug\netcoreapp1.1\ProjectBackend1.pdb
+C:\Users\nick\Documents\Visual Studio 2017\Projects\ProjectBackend1\ProjectBackend1\obj\Debug\netcoreapp1.1\ProjectBackend1.csproj.CoreCompileInputs.cache
+C:\Users\nick\documents\visual studio 2017\Projects\ProjectBackend1\ProjectBackend1\obj\Debug\netcoreapp1.1\ProjectBackend1.AssemblyInfoInputs.cache
